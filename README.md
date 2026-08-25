@@ -31,7 +31,9 @@
 
 🧠 Improving my **Data Structures & Algorithms** and core computer science fundamentals.
 
-🚀 Interested in building real-world applications, exploring AI technologies and continuously improving my development skills.
+🤖 Exploring **AI, LLMs and automation**.
+
+🚀 Always learning, building and improving.
 
 > **Code. Learn. Build. Repeat. 🔥**
 
@@ -51,13 +53,13 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-### 💻 Programming
+### 💻 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript" />
 </p>
 
-### 🔧 Tools & Technologies
+### 🔧 Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
@@ -65,7 +67,7 @@
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=PrasastiBaitharu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
@@ -83,14 +85,6 @@
 
 ---
 
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrasastiBaitharu&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
 # 🏆 GitHub Trophies
 
 <p align="center">
@@ -102,6 +96,7 @@
 # 🚀 Featured Projects
 
 <p align="center">
+
   <a href="https://github.com/PrasastiBaitharu">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrasastiBaitharu&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
   </a>
@@ -109,9 +104,11 @@
   <a href="https://github.com/PrasastiBaitharu">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrasastiBaitharu&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
   </a>
+
 </p>
 
 <p align="center">
+
   <a href="https://github.com/PrasastiBaitharu">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrasastiBaitharu&repo=YOUR_PROJECT_3&theme=tokyonight&hide_border=true" />
   </a>
@@ -119,54 +116,45 @@
   <a href="https://github.com/PrasastiBaitharu">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrasastiBaitharu&repo=YOUR_PROJECT_4&theme=tokyonight&hide_border=true" />
   </a>
+
 </p>
-
----
-
-# 💡 What I'm Currently Working On
-
-```text
-🌐 Full-Stack Web Development
-        ↓
-⚛️ React + TypeScript
-        ↓
-🟢 Node.js + Express
-        ↓
-🍃 MongoDB + MySQL
-        ↓
-🔐 Authentication & Authorization
-        ↓
-🤖 AI & Automation
-        ↓
-🚀 Real-World Projects
-```
 
 ---
 
 # 📚 Currently Learning
 
-* TypeScript
-* Advanced React
-* Node.js & Express
-* MongoDB & Database Design
-* Data Structures & Algorithms
-* System Design
-* Docker
-* AI / LLM Applications
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,react,nodejs,mongodb,docker" />
+</p>
+
+```text
+TypeScript
+   ↓
+Advanced React
+   ↓
+Node.js & Express
+   ↓
+MongoDB & Database Design
+   ↓
+Authentication & Authorization
+   ↓
+Data Structures & Algorithms
+   ↓
+System Design
+   ↓
+AI / LLM Applications
+```
 
 ---
 
-# 📊 My GitHub Journey
+# 🎯 Goals
 
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=PrasastiBaitharu&show_icons=true&hide=issues&theme=tokyonight&hide_border=true" />
-
-</p>
-
-<p align="center">
-  <b>Every contribution is a step forward. 🚀</b>
-</p>
+* 🚀 Build production-ready full-stack applications
+* 🧠 Improve DSA and problem-solving skills
+* 🔐 Learn advanced backend security
+* ☁️ Improve DevOps and deployment skills
+* 🤖 Build AI-powered applications
+* 🌍 Contribute to open-source projects
 
 ---
 
@@ -175,15 +163,15 @@
 <p align="center">
 
 <a href="https://linkedin.com/in/prasasti-kumar-baitharu-16960b341">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:prasastikumarbaitharu@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/PrasastiBaitharu">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
