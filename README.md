@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Prasasti Kumar Baitharu
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+Stack+Developer;JavaScript+%7C+TypeScript+%7C+C%2B%2B;Building+Real-World+Projects;Always+Learning+%26+Building+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+Stack+Developer;JavaScript+%7C+TypeScript+%7C;Building+Real-World+Projects;Always+Learning+%26+Building+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
