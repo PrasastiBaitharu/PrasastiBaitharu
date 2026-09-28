@@ -1,22 +1,23 @@
-<!-- ═══════════════ HEADER BANNER ═══════════════ -->
+<!-- ═══════════════ HEADER ═══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=230&section=header&text=Prasasti%20Kumar%20Baitharu&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20TypeScript%20%E2%80%A2%20AI%20Explorer&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:1F6FEB,100:58A6FF&height=220&section=header&text=Prasasti%20Kumar%20Baitharu&fontSize=40&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20TypeScript%20%E2%80%A2%20AI%20Explorer&descSize=16&descAlignY=64" width="100%" alt="header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=%F0%9F%91%8B+Hi%2C+I'm+Prasasti;Full-Stack+Developer+%7C+MERN+Stack;JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Node.js;Building+Real-World+Projects;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=%F0%9F%91%8B+Hi%2C+I'm+Prasasti;Full-Stack+Developer+%7C+MERN+Stack;JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Node.js;Building+Real-World+Applications;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/PrasastiBaitharu"><img src="https://img.shields.io/github/followers/PrasastiBaitharu?label=Followers&style=for-the-badge&logo=github&color=1F6FEB&labelColor=0D1117" /></a>
-  <a href="https://github.com/PrasastiBaitharu?tab=repositories"><img src="https://img.shields.io/github/stars/PrasastiBaitharu?label=Stars&style=for-the-badge&logo=github&color=E3B341&labelColor=0D1117" /></a>
-  <img src="https://komarev.com/ghpvc/?username=PrasastiBaitharu&label=Profile%20Views&color=58A6FF&style=for-the-badge&labelColor=0D1117" />
+  <a href="https://github.com/PrasastiBaitharu"><img src="https://img.shields.io/github/followers/PrasastiBaitharu?label=Followers&style=for-the-badge&logo=github&color=1F6FEB&labelColor=0D1117" alt="followers" /></a>
+  <img src="https://img.shields.io/badge/BCA-Student-58A6FF?style=for-the-badge&labelColor=0D1117&logo=googlescholar&logoColor=white" alt="BCA" />
+  <img src="https://img.shields.io/badge/Stack-MERN-47A248?style=for-the-badge&labelColor=0D1117&logo=mongodb&logoColor=white" alt="MERN" />
+  <img src="https://img.shields.io/badge/Open%20To-Internships-F78166?style=for-the-badge&labelColor=0D1117" alt="open to" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/prasasti-kumar-baitharu-16960b341"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:prasastikumarbaitharu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/PrasastiBaitharu?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/prasasti-kumar-baitharu-16960b341"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:prasastikumarbaitharu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/PrasastiBaitharu?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
 </p>
 
 ---
@@ -50,7 +51,7 @@ const prasasti = {
   education: "BCA Student",
   stack: ["MongoDB", "Express",
           "React", "Node.js"],
-  language: ["JavaScript", "TypeScript"],
+  languages: ["JavaScript", "TypeScript"],
   learning: ["DSA", "System Design",
              "Docker", "AI / LLMs"],
   openTo: ["Internships", "Open Source",
@@ -71,68 +72,37 @@ const prasasti = {
 
 | | |
 |:--|:--|
-| **🎨 Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" /> |
-| **⚙️ Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /> |
-| **💻 Languages** | <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts" /> |
-| **🔧 Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" /> |
+| **🎨 Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="frontend" /> |
+| **⚙️ Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="backend" /> |
+| **💻 Languages** | <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts" alt="languages" /> |
+| **🔧 Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" alt="tools" /> |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PrasastiBaitharu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasastiBaitharu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://streak-stats.demolab.com?user=PrasastiBaitharu&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PrasastiBaitharu&theme=tokyonight&hide_border=true" />
+  <b>🟩 Contribution Graph</b><br/><br/>
+  <img src="https://ghchart.rshah.org/58A6FF/PrasastiBaitharu" alt="Contribution graph" width="90%" />
 </p>
 
+<!--
+  OPTIONAL: self-generated stats card (never breaks, unlike third-party widgets).
+  1. Add the workflow file  .github/workflows/metrics.yml
+  2. Run it once from the Actions tab
+  3. Then uncomment the block below
+-->
+<!--
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PrasastiBaitharu&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="./github-metrics.svg" alt="GitHub metrics" width="100%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrasastiBaitharu&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<!-- ✏️ Replace the placeholders below with your real projects. Pinned repos also work great. -->
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔹 Project One
-Short description of what it does and the problem it solves.
-
-**Stack:** `React` `Node.js` `MongoDB`
-
-[🔗 Repo](https://github.com/PrasastiBaitharu) • [🌐 Live Demo](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔹 Project Two
-Short description of what it does and the problem it solves.
-
-**Stack:** `Next.js` `TypeScript` `Tailwind`
-
-[🔗 Repo](https://github.com/PrasastiBaitharu) • [🌐 Live Demo](#)
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/PrasastiBaitharu?tab=repositories"><b>➡️ See all my repositories</b></a>
-</p>
+-->
 
 ---
 
@@ -157,6 +127,10 @@ flowchart LR
     style H fill:#1F6FEB,color:#fff
 ```
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,mongodb,docker" alt="currently learning" />
+</p>
+
 ---
 
 ## 🎯 Goals
@@ -175,18 +149,18 @@ flowchart LR
 ## 🤝 Let's Connect
 
 <p align="center">
-  I'm open to <b>internships, collaborations and open-source projects</b>.<br/>
-  Feel free to reach out. Let's build something great together!
+  I'm open to <b>internships, collaborations and open-source work</b>.<br/>
+  Reach out, and let's build something great together!
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/prasasti-kumar-baitharu-16960b341"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:prasastikumarbaitharu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/PrasastiBaitharu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/prasasti-kumar-baitharu-16960b341"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:prasastikumarbaitharu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/PrasastiBaitharu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=PrasastiBaitharu&label=Profile%20Views&color=58A6FF&style=flat" alt="views" />
 </p>
 
 <p align="center">
@@ -195,5 +169,5 @@ flowchart LR
 
 <!-- ═══════════════ FOOTER ═══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=110&section=footer" width="100%" alt="footer" />
 </p>
